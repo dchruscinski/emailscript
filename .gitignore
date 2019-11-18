@@ -123,5 +123,5 @@ dmypy.json
 .pyre/
 
 # Auth
-o365_token.txt
-auth.py
+.o365_token.txt
+.auth.py
