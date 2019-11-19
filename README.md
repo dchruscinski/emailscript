@@ -1,4 +1,10 @@
-### emailscript
+# E-mail sender script
+
+## Technologies
+
+- Python 3.7.
+
+## Functionality
  
 That simple script:
 
